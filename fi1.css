@@ -1,0 +1,16 @@
+body{
+ line-height: 0.2em;
+	margin-left:100px ;
+	font-size: 30px;
+}
+a:hover{
+	color:red;
+
+}
+a:visited{
+	color:yellowgreen;
+}
+button{
+	color: blue;
+	border-radius: 10px;
+}
